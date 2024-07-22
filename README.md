@@ -347,6 +347,7 @@ Check solve section for steganography.
 - [Exploit.Education](http://exploit.education) - Variety of VMs to learn variety of computer security issues.
 - [Gracker](https://github.com/Samuirai/gracker) - Binary challenges having a slow learning curve, and write-ups for each level.
 - [Hack The Box](https://www.hackthebox.eu) - Weekly CTFs for all types of security enthusiasts.
+- [Parrot CTFs](https://parrot-ctfs.com) - Jeopardy Style Hacking Labs and Capture the flags
 - [Hack This Site](https://www.hackthissite.org/) - Training ground for hackers.
 - [Hacker101](https://www.hacker101.com/) - CTF from HackerOne
 - [Hacking-Lab](https://hacking-lab.com/) - Ethical hacking, computer network and security challenge platform.
