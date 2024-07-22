@@ -354,6 +354,7 @@ Check solve section for steganography.
 - [IO](http://io.netgarage.org/) - Wargame for binary challenges.
 - [Microcorruption](https://microcorruption.com) - Embedded security CTF.
 - [Over The Wire](http://overthewire.org/wargames/) - Wargame maintained by OvertheWire Community.
+- [Parrot CTFs](https://parrot-ctfs.com) - Jeopardy Style Hacking Labs and Capture the flags
 - [PentesterLab](https://pentesterlab.com/) - Variety of VM and online challenges (paid).
 - [PicoCTF](https://2019game.picoctf.com) - All year round ctf game. Questions from the yearly picoCTF competition.
 - [PWN Challenge](http://pwn.eonew.cn/) - Binary Exploitation Wargame.
