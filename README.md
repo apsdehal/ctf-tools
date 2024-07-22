@@ -347,7 +347,6 @@ Check solve section for steganography.
 - [Exploit.Education](http://exploit.education) - Variety of VMs to learn variety of computer security issues.
 - [Gracker](https://github.com/Samuirai/gracker) - Binary challenges having a slow learning curve, and write-ups for each level.
 - [Hack The Box](https://www.hackthebox.eu) - Weekly CTFs for all types of security enthusiasts.
-- [Parrot CTFs](https://parrot-ctfs.com) - Jeopardy Style Hacking Labs and Capture the flags
 - [Hack This Site](https://www.hackthissite.org/) - Training ground for hackers.
 - [Hacker101](https://www.hacker101.com/) - CTF from HackerOne
 - [Hacking-Lab](https://hacking-lab.com/) - Ethical hacking, computer network and security challenge platform.
@@ -355,6 +354,7 @@ Check solve section for steganography.
 - [IO](http://io.netgarage.org/) - Wargame for binary challenges.
 - [Microcorruption](https://microcorruption.com) - Embedded security CTF.
 - [Over The Wire](http://overthewire.org/wargames/) - Wargame maintained by OvertheWire Community.
+- [Parrot CTFs](https://parrot-ctfs.com) - Jeopardy Style Hacking Labs and Capture the flags
 - [PentesterLab](https://pentesterlab.com/) - Variety of VM and online challenges (paid).
 - [PicoCTF](https://2019game.picoctf.com) - All year round ctf game. Questions from the yearly picoCTF competition.
 - [PWN Challenge](http://pwn.eonew.cn/) - Binary Exploitation Wargame.
